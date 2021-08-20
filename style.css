@@ -21,6 +21,10 @@ textarea {
   border-bottom: 10px solid black;
 }
 
+.timeRow {
+  display: flex;
+}
+
 .description {
   white-space: pre-wrap;
 }
