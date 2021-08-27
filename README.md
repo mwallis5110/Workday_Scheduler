@@ -23,6 +23,9 @@ There are no installation instructions for this project aside from opening it in
 ## Using the Program
 After opening the program, users can input notes into each hour text box. Clicking the save button to the right will save those notes to local storage
 
+#### Demo:
+![Demo Gif](./screencast.gif)
+
 ## License
 #### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
